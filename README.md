@@ -89,21 +89,8 @@ Lin DY, Zeng D. 2009. [Proper analysis of secondary phenotype data in case-contr
 
  
 
-+---------+----------------+-------------------------------------------------------------+
 | Version | Date           | Description                                                 |
-+:========+:===============+:============================================================+
+|:--------|:---------------|:------------------------------------------------------------|
 | 1.0     | April 22, 2008 | First version released                                      |
-+---------+----------------+-------------------------------------------------------------+
-| 2.0     | May 18, 2011   | -   **New Features:**                                       |
-|         |                |                                                             |
-|         |                |     -   1) Allowing environmental factors in the model      |
-|         |                |                                                             |
-|         |                |     -   2) Allowing genotype values to be other than 0, 1,\ |
-|         |                |         and 2                                               |
-|         |                |                                                             |
-|         |                |     -   3) New input file format                            |
-|         |                |                                                             |
-|         |                |     -   4) New command-line parameters                      |
-|         |                |                                                             |
-|         |                |     -   5) New example data                                 |
-+---------+----------------+-------------------------------------------------------------+
+| 2.0     | May 18, 2011   | **New Features:**<br>-   1) Allowing environmental factors in the model<br>-   2) Allowing genotype values to be other than 0, 1, and 2<br>-   3) New input file format<br>-   4) New command-line parameters<br>-   5) New example data                                 |
+
